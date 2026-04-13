@@ -63,6 +63,7 @@ nodes:
 
 - role: worker
   image: kindest/node:v1.35.0
+  
   :wq
 
   🎯 Next Step: Create KIND Cluster
