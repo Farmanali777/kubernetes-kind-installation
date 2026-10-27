@@ -7,8 +7,11 @@ This guide explains how to install Docker, KIND, and kubectl on Ubuntu to create
 
 🐳 Step 1: Install Docker
 Docker is required to run Kubernetes nodes as containers.
+
 sudo apt update
+
 sudo apt upgrade
+
 sudo apt install -y docker.io
 
 ▶️ Verify Installation
